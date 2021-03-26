@@ -1,2 +1,2 @@
-# soil-moisture-model
-Idealized Soil Moisture Bucket Model
+# Idealized Soil Moisture Bucket Model
+
